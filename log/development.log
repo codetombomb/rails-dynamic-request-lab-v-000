@@ -305,3 +305,6 @@ Processing by StudentsController#show as HTML
   [1m[36mStudent Load (0.2ms)[0m  [1m[34mSELECT  "students".* FROM "students" WHERE "students"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
   Rendering students/show.html.erb within layouts/application
   Rendered students/show.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 223ms (Views: 194.3ms | ActiveRecord: 0.7ms)
+
+
